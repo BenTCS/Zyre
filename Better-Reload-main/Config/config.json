@@ -18,8 +18,8 @@
     "bEnableRebootUser": true,
     "bEnableCrossBans": false,
 
-    "//": "If you want to use the backend on reboot, leave 3551 as the port",
-    "port": 3551, 
+    "//": "If you want to use the backend on reboot, leave 3552 as the port",
+    "port": 3552, 
     
     "Api": {
       "bApiKey": "ur-api-key",
@@ -33,8 +33,8 @@
       "bUseWebsite": true,
       "clientId": "1544461773145378837",
       "clientSecret": "MO50prneutifI6uaMfr5VmVsQOv06E8Z",
-      "redirectUri": "http://26.77.153.180:8080/oauth2/callback",
-      "websiteport": 8080
+      "redirectUri": "http://26.77.153.180:8081/oauth2/callback",
+      "websiteport": 8081
     },
 
     "//": "to add more gameserver on 'gameServerIP' add ip:port:playlist",

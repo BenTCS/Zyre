@@ -1,0 +1,1 @@
+{"uuid":"dcc28aa9-5fa0-4a61-97c7-208c57cb0ee5","name":"Reboot Game Server","description":"Just another server","custom_launch_args":""}

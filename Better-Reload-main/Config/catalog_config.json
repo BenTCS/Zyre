@@ -2,50 +2,50 @@
   "//": "BR Item Shop Config",
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_139_Athena_Commando_M_FighterPilot"
+      "AthenaCharacter:CID_430_Athena_Commando_M_StormSoldier"
     ],
-    "price": 1500
+    "price": 2000
   },
   "daily2": {
     "itemGrants": [
-      "AthenaCharacter:CID_318_Athena_Commando_M_Demon"
+      "AthenaCharacter:CID_227_Athena_Commando_F_Vampire"
     ],
     "price": 1500
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_DustingHands"
+      "AthenaDance:EID_JumpingJack"
     ],
     "price": 200
   },
   "daily4": {
     "itemGrants": [
-      "AthenaBackpack:BID_120_Werewolf"
+      "AthenaBackpack:BID_211_SkullBrite"
     ],
-    "price": 2000
+    "price": 1200
   },
   "daily5": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_115_SnowNinja"
+      "AthenaGlider:Glider_ID_012_TeddyBear"
     ],
-    "price": 800
+    "price": 1200
   },
   "daily6": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_174_LuckyRider"
+      "AthenaPickaxe:Pickaxe_ID_185_BadassCowboyCactus"
     ],
     "price": 800
   },
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_301_Athena_Commando_M_Rhino"
+      "AthenaCharacter:CID_428_Athena_Commando_M_UrbanScavenger"
     ],
-    "price": 1500
+    "price": 1200
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_378_Athena_Commando_M_FurnaceFace"
+      "AthenaCharacter:CID_191_Athena_Commando_M_SushiChef"
     ],
-    "price": 2000
+    "price": 1200
   }
 }

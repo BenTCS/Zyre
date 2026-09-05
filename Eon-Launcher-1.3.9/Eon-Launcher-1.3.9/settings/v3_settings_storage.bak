@@ -1,0 +1,1 @@
+{"offset_x":210.0,"offset_y":386.0,"first_run_tutorial":false,"width":1383.0,"height":857.0}

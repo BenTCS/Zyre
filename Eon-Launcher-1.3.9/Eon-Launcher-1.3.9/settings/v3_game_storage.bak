@@ -1,0 +1,1 @@
+{"versions":"[{\"name\":\"16.50-CL-16469788\",\"gameVersion\":\"16.50-CL-16469788\",\"location\":\"F:\\\\16.50-CL-16469788\\\\16.50-CL-16469788\\\\Fortnite\\\\FortniteGame\\\\Binaries\\\\Win64\"}]","version":"16.50-CL-16469788","username":"hostaccount@reloadbackend.com","password":"bsIgCTuVuG3R","custom_launch_args":""}
